@@ -10,6 +10,7 @@ int main() {
 	int player1Score = 0;
 	int player2Score = 0;
 	
+	cout << "\t\tWelcome to the Rock Paper Scissors game\n";
 	
 	do {
 	
